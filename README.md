@@ -1,7 +1,6 @@
 # cyrineboussofara
 
-<p align="justify"> Your Text </p>
-
+<p align="justify"> 
 
 In this repository, I am giving an overview of the main projects I worked on that are related to the computer vision field.
 
@@ -16,3 +15,4 @@ In the project Occlusion_prob, I implemented a method that aimed to correct the 
 this included using algorithms like Hungarian algorithm, Intersection over Union and others and the goal was to gather different statistics to help us understand when objects
 start to not being detected anymore or wrongly detected and which error is the most occuring one and evaluate the proposed method.
 
+ </p>
