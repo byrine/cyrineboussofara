@@ -1,4 +1,4 @@
-# cyrineboussofara
+# Cyrine Boussofara
 
 
 <p align="justify">In this repository, I am giving an overview of the main projects I worked on that are related to the computer vision field.</p>
