@@ -1,0 +1,6 @@
+[submodule "drawing_package"]
+	path = drawing_package
+	url = git@gitlab.lrz.de:providentiaplusplus/drawing_package.git
+[submodule "data_labelling/multi_object_label_tool"]
+	path = data_labelling/multi_object_label_tool
+	url = git@gitlab.lrz.de:lstrand/multi_object_label_tool.git
