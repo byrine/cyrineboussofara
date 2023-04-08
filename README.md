@@ -1,8 +1,8 @@
 # cyrineboussofara
 
-<p align="justify"> 
+<p align="justify"> </p>
 
-In this repository, I am giving an overview of the main projects I worked on that are related to the computer vision field.
+<p align="justify">In this repository, I am giving an overview of the main projects I worked on that are related to the computer vision field.</p>
 
 In the project PointNet++ which was mainly investigating object detection for 3D point cloud, I made use of the [Tensorflow implementation of PointNet++] ( https://github.com/
 charlesq34/pointnet2) and made modifications in order to perform new tests and gather results.
@@ -15,4 +15,3 @@ In the project Occlusion_prob, I implemented a method that aimed to correct the 
 this included using algorithms like Hungarian algorithm, Intersection over Union and others and the goal was to gather different statistics to help us understand when objects
 start to not being detected anymore or wrongly detected and which error is the most occuring one and evaluate the proposed method.
 
- </p>
